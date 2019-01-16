@@ -1,6 +1,7 @@
 /**
  * Java.2.Lesson.5.Homework
  *
+ *
  * @autor Stanislav Lyashov
  */
 public class Main {
